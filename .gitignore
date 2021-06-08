@@ -1,0 +1,4 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+submissions/starting_kit/__pycache__/
